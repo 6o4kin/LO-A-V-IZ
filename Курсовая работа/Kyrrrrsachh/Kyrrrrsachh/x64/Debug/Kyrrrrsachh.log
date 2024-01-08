@@ -1,0 +1,8 @@
+﻿  Kyrrrrsachh.cpp
+C:\LO-A-V-IZ\LO-A-V-IZ\10 лаба\Kyrrrrsachh\Kyrrrrsachh\Kyrrrrsachh.cpp(26,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\LO-A-V-IZ\LO-A-V-IZ\10 лаба\Kyrrrrsachh\Kyrrrrsachh\Kyrrrrsachh.cpp(79,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\LO-A-V-IZ\LO-A-V-IZ\10 лаба\Kyrrrrsachh\Kyrrrrsachh\Kyrrrrsachh.cpp(281,106): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\LO-A-V-IZ\LO-A-V-IZ\10 лаба\Kyrrrrsachh\Kyrrrrsachh\Kyrrrrsachh.cpp(281,106): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+C:\LO-A-V-IZ\LO-A-V-IZ\10 лаба\Kyrrrrsachh\Kyrrrrsachh\Kyrrrrsachh.cpp(288,43): warning C4101: save: неиспользованная локальная переменная
+C:\LO-A-V-IZ\LO-A-V-IZ\10 лаба\Kyrrrrsachh\Kyrrrrsachh\Kyrrrrsachh.cpp(291,9): warning C4101: count: неиспользованная локальная переменная
+  Kyrrrrsachh.vcxproj -> C:\LO-A-V-IZ\LO-A-V-IZ\10 лаба\Kyrrrrsachh\x64\Debug\Kyrrrrsachh.exe

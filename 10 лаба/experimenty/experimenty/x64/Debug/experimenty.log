@@ -1,0 +1,3 @@
+﻿  experimenty.cpp
+C:\LO-A-V-IZ\LO-A-V-IZ\10 лаба\experimenty\experimenty\experimenty.cpp(53,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  experimenty.vcxproj -> C:\LO-A-V-IZ\LO-A-V-IZ\10 лаба\experimenty\x64\Debug\experimenty.exe
